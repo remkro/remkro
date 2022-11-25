@@ -10,9 +10,10 @@
   <li>Java</li>
   <li>Spring Boot</li>
   <li>Hibernate</li>
-  <li>SQL</li>
+  <li>SQL / MySQL</li>
   <li>Liquibase</li>
   <li>REST API</li>
+  <li>JUnit</li>
   <li>Maven</li>
   <li>Git</li>
 </ul>
